@@ -1,0 +1,212 @@
+body{
+           
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.secondary{
+    font-size: 30px;
+    font-family: Arial; 
+    text-align: left;
+    margin-top: 65px;
+    
+}
+@font-face{
+    font-family: myFont;
+    src: url(fonts/TT\ Berlinerins\ Trial\ Grotesk.otf);    
+    }
+
+@font-face{
+    font-family: lato;
+    src: url(fonts/Lato-Light.ttf)
+}
+@font-face{
+    font-family: oswald;
+    src: url(fonts/Oswald-VariableFont_wght.ttf)
+}
+header,footer{
+    position: absolute;
+    width:100%;
+   
+}*{
+    margin: 0;
+    padding:0;
+}
+
+
+
+footer{
+    height: 15vh;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    margin-top: 300px;
+    
+}
+.main-header{
+    font-family: myFont;
+    text-align: center;
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 35px;
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    height: 15vh;
+    width:100vw;
+}
+.paragraph{
+ font-size: 20px;
+ margin-bottom: 125px;
+ font-family: lato;
+}
+.sub{
+    font-family: oswald;
+    font-size: 40px;
+    color: black;
+    margin-bottom:45px;
+}
+.soh{
+    background-image: url(images/soh.png);
+    height: 300px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 85px;
+}
+.nogap{
+    font-size: 20px;
+    font-family: lato;
+}
+.opp{
+    background-image: url(images/opposite.jpg);
+    height: 300px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 125px;
+}
+.gap{
+    font-size: 20px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    font-family: lato;
+}
+.hypot{
+    background-image: url(images/hypotenuse.jpg);
+    height: 300px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 85px;
+}
+.adj{
+    background-image: url(images/adjacent.jpg);
+    height: 300px;
+    width:500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 85px;
+}
+.ex1{
+    background-image: url(images/ex1.jpg);
+    height: 300px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.qs{
+    font-family: Arial;
+    font-size:30px;
+    color: black;
+    border-width: 5px;
+    border-color: grey;
+    height: 50px;
+    width: 100vw;
+    background-color: rgb(25, 138, 245);
+    margin-right: 150px;
+    object-position: center;
+}
+.dec{
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    font-family:Arial;
+    
+
+}
+.q1{
+    background-image:url(images/q1.PNG);
+    height: 180px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 75px;
+}
+.q2{
+    background-image:url(images/q2.jpg);
+    height: 180px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
+
+.ans{
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 175px;
+    margin-left: 35px;
+    font-family:Arial;
+}
+.find{
+    font-size: 25px;
+    margin-top: 45px;
+    margin-bottom: 225px;
+    
+    font-family:Arial;
+}
+.cah{
+    background-image:url(images/cah.png);
+    height: 300px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+    
+}
+.ex2{
+    background-image: url(images/ex2.jpg);
+    height: 300px;
+    width: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.q3{
+    background-image:url(images/q3.PNG);
+    height: 180px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
+.q4{
+    background-image:url(images/q4.PNG);
+    height: 180px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
+.q5{
+    background-image:url(images/q5.PNG);
+    height: 180px;
+    width: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 25px;
+}
